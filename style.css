@@ -1,0 +1,64 @@
+.header{
+    background-color: rgb(156, 151, 151);
+    color: white;
+    height: 15vh;
+    text-align: center;
+    font-family: arial;
+    font-size: 10vh;
+}
+.section{
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+   height:100vh;
+   font-size: 10vh;
+   margin-top:auto;
+   align-items: center;
+   text-align: center;
+   line-height: 100vh;
+}
+.section1{
+    text-align: center;
+    color: rgb(7, 7, 7);
+   height:80vh;
+   font-size: 10vh;
+   margin-top:auto;
+   align-items: center;
+   text-align: center;
+   display: flex;
+   justify-content: space-between;
+}
+h1{
+    text-align: center;
+    color: rgb(7, 7, 7);
+    height:2vh;
+    font-size: 10vh;
+    margin-top:auto;
+    align-items: center;
+    text-align: center;
+    padding: 10PX;
+}
+.section2a{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.section3a{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-color: rgb(231, 114, 187);
+    color: white;
+    height: 15vh;
+    text-align: center;
+    font-family: arial;
+    font-size: 8vh;   
+}
+.section2a{
+    text-align: center;
+    line-height: 30vh;
+}
